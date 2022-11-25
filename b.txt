@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 heee
 =======
 hii
@@ -7,3 +8,6 @@ hii
 =======
 hii
 >>>>>>> add1652 (b file added)
+=======
+hello
+>>>>>>> 84a2520 (b file is updated)
